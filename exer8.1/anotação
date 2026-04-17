@@ -1,0 +1,19 @@
+isaac.css{
+    Deu Certo, apenas troquei:
+
+    container 
+        display:gri para dispay:flex
+        flex-wrap:wrap-reverse para flex-wrap:wrap
+    
+    card
+        flex-direction:column-reverse para flex-direction:column
+}
+
+gustavo.css{
+    Deu certo, apenas troquei:
+
+    container
+        display:gri para dispay:flex
+        flex-wrap: wrap-reverse para flex-wrap: wrap
+        gap: 5% para gap: 5px
+}
